@@ -1,2 +1,2 @@
 # hello-project
-This is a readme, sweet!
+So this is a readme, sweet!
