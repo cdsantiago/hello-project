@@ -1,2 +1,2 @@
 # hello-project
-Hello there friend, this is the markdown readme file for this repo.
+Hello there, this is the README for this repository. It is a .markdown file

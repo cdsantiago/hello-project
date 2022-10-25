@@ -1,3 +1,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
 }
+
+.main-landing-image {
+    width: 15em;
+}
