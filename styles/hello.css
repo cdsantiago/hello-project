@@ -2,6 +2,74 @@ body {
     font-family: 'Roboto Mono', monospace;
 }
 
+ .main-page-container {
+    width: 50vw;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.main-title {
+    font-weight: bolder;
+    font-size: 4em;
+}
+
+ a {
+    color: gray;
+    text-decoration: none;
+
+}
+ a:hover {
+    color:blue;
+}
+
+.tag-line-text {
+    display: inline-block;
+    font-size: 1.4em;
+    margin: 10px;
+    text-align:left;
+    line-height: 2em;
+
+}
+
+
 .main-landing-image {
-    width: 15em;
+    width: 20em;
+    margin: 60px;
+
+}
+.say-hello-button {
+    width:7em;
+    height: 2em;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    border-radius: 1em;
+    cursor: pointer;
+
+}
+
+.say-hello-button:hover {
+    background: blue;
+    transition: background-color 0.2s ease-in;
+}
+
+.category a:hover {
+
+    color: gray;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.2em;
+    color:blue;
+    border-bottom-color: blue;
+
+}
+
+footer > p  {
+
+    font-size: 0.8em;
+    position: relative;
+    bottom: -160px;
+
+
 }
