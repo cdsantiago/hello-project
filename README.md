@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# hello-project
-Hello there, this is the readme for this repository.
-=======
+
 # hello-project
 Hello , check the live site here: https://cdsantiago.github.io/hello-project/#
 
