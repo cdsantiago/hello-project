@@ -1,4 +1,4 @@
 # hello-project
-Hello there, this is the readme for this repository.
+Hello , check the live site here: https://cdsantiago.github.io/hello-project/#
 
-https://cdsantiago.github.io/hello-project/#
+
